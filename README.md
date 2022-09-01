@@ -1,1 +1,1 @@
-My name is Betty
+This script is about permissions
